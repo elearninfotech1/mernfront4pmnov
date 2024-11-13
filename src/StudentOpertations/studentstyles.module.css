@@ -1,0 +1,15 @@
+.bread {
+    background-color: rgb(7, 88, 7);
+}
+
+.bread h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    padding: 25px 0px;
+}
+
+.student form {
+    box-shadow: 4px 3px 3px 5px rgb(154, 243, 154);
+    padding: 20px;
+}

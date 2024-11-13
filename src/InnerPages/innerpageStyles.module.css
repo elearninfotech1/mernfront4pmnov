@@ -1,0 +1,20 @@
+img {
+    max-width: 100%;
+}
+
+.treatment .title {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.bread {
+    background-color: rgb(7, 88, 7);
+}
+
+.bread h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    padding: 25px 0px;
+}
